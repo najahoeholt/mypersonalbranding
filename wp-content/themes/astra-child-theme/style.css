@@ -25,3 +25,6 @@ a.elementor-button-link.elementor-button.elementor-size-lg {
     color: forestgreen;
 }
 
+h2.elementor-heading-title.elementor-size-default {
+    color: pink !important;
+}
