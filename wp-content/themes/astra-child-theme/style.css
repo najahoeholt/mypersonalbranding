@@ -1,0 +1,27 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    http://najahoholt/personalbrandingexam/
+ Description:  Astra Child Theme
+ Author:       Naja Høholt
+ Author URI:   http://najahoholt/personalbrandingexam
+ Template:     astra
+ Version:      1.1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astra
+*/
+ 
+
+ 
+
+a.elementor-button-link.elementor-button.elementor-size-sm.elementor-animation-shrink {
+    background-color: pink;
+}
+
+a.elementor-button-link.elementor-button.elementor-size-lg {
+    font-family: serif;
+    font-size: larger;
+    color: forestgreen;
+}
+
