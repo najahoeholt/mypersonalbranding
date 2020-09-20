@@ -15,16 +15,18 @@
 
  
 
-a.elementor-button-link.elementor-button.elementor-size-sm.elementor-animation-shrink {
-    background-color: pink;
+a.menu-link{
+  	font-family: playfair display !important;
+	font-size: 1.1em; !important;
+  text-align: center;
+  color: #CECBBF !important;
+ 
+
 }
 
-a.elementor-button-link.elementor-button.elementor-size-lg {
-    font-family: serif;
-    font-size: larger;
-    color: forestgreen;
+a.menu-link:hover{
+text-decoration: underline;
 }
 
-h2.elementor-heading-title.elementor-size-default {
-    color: pink !important;
-}
+div.main-header-bar{
+  background-color:#323232 !important;}
